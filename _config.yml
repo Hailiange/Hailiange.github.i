@@ -5,7 +5,7 @@ title: 心智花园
 description: 有关理性决策/社会与日常
  # this means to ignore newlines until "baseurl:"
 baseurl: "/Hialiange.github.io" # the subpath of your site, e.g. /blog
-url: "mindware.club" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://zhailiange.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
