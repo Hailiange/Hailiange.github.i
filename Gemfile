@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-
 gem "bundler"
 gem "jekyll", ">= 3.8.4"
 gem "jekyll-paginate"
